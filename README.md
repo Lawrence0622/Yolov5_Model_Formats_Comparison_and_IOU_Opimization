@@ -14,6 +14,8 @@
   ○  儘管理論上，提出的 IIoU 和 EIoU 指標預計會超過 CIoU，但它們的實驗性能分別排名第四和第五。
   ○  未來的工作可能會探索物件損失和位置損失（邊界框損失）之間的關係。總之，這項研究為資源受限平台上的跌倒偵測系統部署提供了實用的見解，突出了在模型優化決策中經驗測試比理論假設的重要性。
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The main objective is to test the impact of different file formats on YOLOv5 model's detection accuracy and latency, and to explore the effects of modifying bounding box loss calculation methods on YOLOv5 loss function.
 Key findings of the report:
 
